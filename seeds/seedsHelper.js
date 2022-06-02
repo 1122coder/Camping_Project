@@ -16,7 +16,9 @@ module.exports.descriptors = [
     'Sea',
     'Sky',
     'Dusty',
-    'Diamond'
+    'Diamond',
+    'Passu Cones',
+    'Ushu Forest'
 ]
 
 module.exports.places = [
@@ -40,5 +42,8 @@ module.exports.places = [
     'Mule Camp',
     'Hunting Camp',
     'Cliffs',
-    'Hollow'
+    'Hollow',
+    'SWAT VALLEY',
+    'HUNZA VALLEY',
+    'YARKHUN VALLEY'
 ]
